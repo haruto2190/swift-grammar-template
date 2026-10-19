@@ -18,10 +18,11 @@
 ## 画面
 
 （スクリーンショットを貼る。GitHub の編集画面に画像をドラッグ＆ドロップすると貼れます。）
-<img width="737" height="1602" alt="image" src="https://github.com/user-attachments/assets/8512982c-ba2c-4c01-a110-94e529dea89e" />
-<img width="737" height="1602" alt="image" src="https://github.com/user-attachments/assets/580a9bb1-7bd1-409b-b402-e885bc441506" />
-<img width="737" height="1602" alt="image" src="https://github.com/user-attachments/assets/f1bc3e4b-ee96-4671-b6c3-95b0abcff8f4" />
-<img width="737" height="1602" alt="image" src="https://github.com/user-attachments/assets/ba4d3ae2-d2a6-46be-8450-ebe6d6221c2b" />
+<img width="737" height="1602" alt="Simulator Screenshot - iPhone 17 Pro - 2026-10-19 at 11 35 43" src="https://github.com/user-attachments/assets/c1f4ef10-3b50-4fa4-b551-e899364f6c5c" />
+<img width="737" height="1602" alt="Simulator Screenshot - iPhone 17 Pro - 2026-10-19 at 11 27 30" src="https://github.com/user-attachments/assets/c9a259f2-b2ef-455f-a730-024bc2d6486d" />
+<img width="737" height="1602" alt="Simulator Screenshot - iPhone 17 Pro - 2026-10-19 at 11 27 19" src="https://github.com/user-attachments/assets/510475a9-ecdf-49e6-8c30-6acc706c3031" />
+<img width="737" height="1602" alt="Simulator Screenshot - iPhone 17 Pro - 2026-10-19 at 11 27 13" src="https://github.com/user-attachments/assets/403c1941-7589-48f4-8480-3834904a23fb" />
+
 
 ## 使った文法・技術
 
