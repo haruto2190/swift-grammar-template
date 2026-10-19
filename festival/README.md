@@ -1,4 +1,3 @@
-<img width="737" height="1602" alt="image" src="https://github.com/user-attachments/assets/bc5e09dc-f41a-40a6-a9d7-4d6452ba9522" /># 日専祭アプリ：キメラバトル
 
 > **チーム：** 「中カワ」　26cm0108川村真生、26cm0107梶田陽斗、26cm0115周テン柱
 > 
