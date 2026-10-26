@@ -26,13 +26,19 @@
 ## 使った文法・技術
 
 （例：`@State`、`List`、`ForEach`、構造体、配列の `append` と `remove`）
+`@State`、`@Binding`、構造体、列挙型、配列、`append`・`removeAll`、`filter`、`compactMap`、`reduce`、`if`、`switch`、`ForEach`、`UserDefaults`、`JSONEncoder`・`JSONDecoder`、`クロージャ`
 
 ## 生成AIの使い方（どの場面で、どう使ったか）
 
 パーツの画像やアイコンの画像や背景の画像を作る時に使った。
 技の効果をつける時に使った。
+topViewでgif画像入れる時に使った。
+iPhone8の画面に合わせるようにするために使った。
 
 
 ## 展示で工夫した点
+
+topviewの画像をgit画像をにして、キャラが動いてるように見せた。
+ランダム機能を追加して、面白みを増やした。
 
 （例：文字を大きくして、来場者が操作しやすいようにした。）
