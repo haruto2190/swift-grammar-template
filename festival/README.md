@@ -17,6 +17,9 @@
 ## 画面
 
 （スクリーンショットを貼る。GitHub の編集画面に画像をドラッグ＆ドロップすると貼れます。）
+<img width="737" height="1602" alt="image" src="https://github.com/user-attachments/assets/078be971-3712-45b8-9734-4bae05528c83" />
+<img width="737" height="1602" alt="image" src="https://github.com/user-attachments/assets/91ad14a2-d841-4f2d-a351-c38ded4f4283" />
+<img width="737" height="1602" alt="image" src="https://github.com/user-attachments/assets/63ea0f11-8c57-4a6c-a2e4-d67a94da7848" />
 
 
 ## 使った文法・技術
