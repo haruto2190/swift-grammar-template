@@ -22,7 +22,7 @@
 ## 使った文法・技術
 
 （例：`@State`、`List`、`ForEach`、構造体、配列の `append` と `remove`）
-``@State`、`@Binding`、`@StateObject`、`@ObservedObject`、`@Published`、`VStack`、`HStack`、`ZStack`、`GeometryReader`、`List`、`ForEach`、`ScrollView`、`LazyVStack`、`NavigationStack`、`TabView`、構造体、クラス、列挙型、配列の`append`・`remove`・`removeAll`、`if`文、`switch`文、関数、`UserDefaults`、`Codable`、`JSONEncoder`、`JSONDecoder`、`withAnimation`、`AVAudioPlayer`、`WKWebView`、`UIViewRepresentable`
+`@State`、`@Binding`、`@StateObject`、`@ObservedObject`、`@Published`、`VStack`、`HStack`、`ZStack`、`GeometryReader`、`List`、`ForEach`、`ScrollView`、`LazyVStack`、`NavigationStack`、`TabView`、構造体、クラス、列挙型、配列の`append`・`remove`・`removeAll`、`if`文、`switch`文、関数、`UserDefaults`、`Codable`、`JSONEncoder`、`JSONDecoder`、`withAnimation`、`AVAudioPlayer`、`WKWebView`、`UIViewRepresentable`
 ## 生成AIの使い方（どの場面で、どう使ったか）
 
 パーツの画像やアイコンの画像や背景の画像を作る時に使った。
