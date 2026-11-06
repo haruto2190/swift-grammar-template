@@ -14,7 +14,7 @@
 
 ```swift
 // 該当部分のコードを抜粋して貼る（5〜15行くらい）
-```switch erabu {
+switch erabu {
 case 0:
     ContentView()
 case 1:
@@ -25,7 +25,7 @@ case 1:
 default:
     SavedListView()
 }
-
+```
 **何をしているか：**
 （この部分が果たしている役割を説明する）
 画面下のボタンで選択した内容によって、合成画面、対戦画面、保存一覧画面を切り替える処理をしている。
@@ -41,13 +41,15 @@ default:
 
 ```swift
 // コードを貼る
-```.navigationDestination(isPresented: $idou) {
+.navigationDestination(isPresented: $idou) {
     GameFadeIn {
         MainTabView()
             .navigationBarBackButtonHidden(true)
     }
 }
 
+
+```
 **何をしているか：**
 ゲームをはじめるボタンを押した後に、タイトル画面からメイン画面に移動する処理をしています。また、移動した後に左上の戻るボタンが表示されないようにしている。
 **なぜこう書くのか：**
@@ -60,7 +62,7 @@ default:
 
 ```swift
 // コードを貼る
-```let webView = WKWebView()
+let webView = WKWebView()
 
 webView.isOpaque = false
 webView.backgroundColor = .clear
@@ -68,6 +70,7 @@ webView.scrollView.backgroundColor = .clear
 
 webView.scrollView.isScrollEnabled = false
 webView.scrollView.bounces = false
+```
 
 **何をしているか：**
 GIFアニメーションを表示するためのWebViewを作成しています。また、背景を透明に設定したり、画面がスクロールしないようにしたりしている。
