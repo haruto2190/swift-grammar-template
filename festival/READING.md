@@ -102,5 +102,5 @@ struct GIFView: UIViewRepresentable {
     }
 }
 ```
-UIViewRepresentable を使うと、なぜUIKitの部品をSwiftUIで表示できるのかと、なぜ普通の View ではなく UIViewRepresentable を使うのかがよく理解できないです。
+UIViewRepresentable を使うと、なぜUIKitの部品をSwiftUIで表示できるのかと、なぜ普通の View ではなく UIViewRepresentable を使うのかがよく説明できないです。
 （アプリの中で「動いているけれど何をしているか分からない」ところを書く。ここに書いたものは、後期の文法の授業で分かるようになります。）
